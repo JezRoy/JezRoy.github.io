@@ -1,0 +1,19 @@
+.headings {
+    text-align: center;
+    color:blue;
+    font-weight: bold;
+    font-size: 50px;
+    background-color:rgba(75, 253, 253, 0.932);
+}
+*{
+    font-family: "Courier New";
+}
+#glider {
+    font-weight: bold;
+    transition: background-color 2s;
+    background-color:khaki;
+}
+#aligner {
+    margin-left:50px;
+    margin-right:50px;
+}
